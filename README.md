@@ -1,6 +1,6 @@
 # Análise de avaliações das vendas
 
-![Dashboard](https://github.com/leonamcassemir0/projeto-amazon/blob/main/dashboard%20projeto%20vendas.jpg?raw=true)
+![Dashboard](https://github.com/leonamcassemir0/projeto-amazon/blob/main/dashboard%20projeto%20vendas.jpg)
 
 ## Sobre o projeto
 
